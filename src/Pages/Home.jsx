@@ -132,7 +132,7 @@ const Home = () => {
   return (
     <div>
         <Navbar />
-        <div className='h-[90vh] bg-[url("./bg-image.webp")] bg-no-repeat bg-cover bg-center fixed top-[10vh] left-0 right-0 -z-10'></div>
+        <div className='h-[90vh] bg-no-repeat bg-cover bg-center fixed top-[10vh] left-0 right-0 -z-10' style={{backgroundImage: 'url("./backgroundimg.png")'}}></div>
         <div className='pt-[12vh]'>
             <About />
             <Filter 
