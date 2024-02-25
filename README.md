@@ -1,8 +1,20 @@
-# React + Vite
+# Hotel Menu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
+- Clone the project
+- Go to the project directory
+- Install dependencies >> npm install / npm i
+- Start the server >> npm start
 
-Currently, two official plugins are available:
+## Features
+- Filter functionality
+- Responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies used
+- React
+- Tailwind Css
+- Material UI
+
+## Live link
+https://hotel-menu-react-assignement.netlify.app/
+
